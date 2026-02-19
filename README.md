@@ -73,5 +73,3 @@ python black_jack_game.py
 **License**
 
 - This project is provided as-is for learning and demonstration. Add a license file if you plan to publish or share more widely.
-
-Enjoy! If you'd like, I can export the draw.io flowchart to PNG and add it to the repo so the image renders directly in this README.
